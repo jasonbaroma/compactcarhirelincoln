@@ -1,4 +1,4 @@
-export type Vehicle = {
+﻿export type Vehicle = {
   title: string
   body: string
   image: string
@@ -255,7 +255,7 @@ export const siteConfig = {
   legalBusinessName: "Compact Car Hire Lincoln",
   locationName: "Lincoln",
   siteUrl: "https://compactcarhirelincoln.co.uk",
-  phone: "0203 909 9745",
+  phone: "+442039099745",
   displayPhone: "0203 909 9745",
   ui: {
     navLocationsLabel: "Locations",
